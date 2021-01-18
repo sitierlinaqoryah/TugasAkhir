@@ -1,0 +1,17 @@
+CodeIgniter-3.1.10
+============================
+
+Admin
+============================
+Username	: admin
+Password	: admin
+
+Kepala Bagian
+============================
+Username	: kepala
+Password	: kepala
+
+Direktur
+============================
+Username	: direktur
+Password	: direktur
